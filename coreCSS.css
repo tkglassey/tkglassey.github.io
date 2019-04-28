@@ -1,0 +1,95 @@
+h1{
+  font-size: 100px;
+  font-family: verdana;
+  text-align: center;
+  padding:  0px;
+  color: #76323F;
+
+}
+h2{
+  font-family: verdana;
+  text-align: center;
+  padding:  0px;
+  color: #76323F;
+}
+p1{
+  font-family: verdana;
+  color: white;
+  font-size: 20px;
+}
+p2{
+  font-family: verdana;
+  color: white;
+  font-size: 15px;
+}
+p3{
+  font-family: verdana;
+  color: white;
+  font-size: 32px;
+}
+.labelStyles{
+  font-family: verdana;
+  color: #76323F;
+  font-size: 20px;
+}
+.b1:link, .b1:visited{
+  font-size: 20px;
+  font-family: verdana;
+  color: white;
+  background-color: #C09F80;
+  text-align: center;
+  padding: 10px 20px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.navBar{
+  margin: auto;
+  border: 5px solid #76323F;
+  width: auto;
+  padding:  5px;
+  text-align: center;
+  border-radius: 10px;
+}
+.betterFields{
+  border-radius: 7px;
+  border: 1px solid #76323F;
+  padding: 5px;
+}
+.registerStyles{
+  font-size: 20px;
+  font-family: verdana;
+  color: white;
+  background-color: #C09F80;
+  text-align: center;
+  padding: 10px 20px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 0px;
+}
+.trending{
+  text-align: center;
+  border: 5px solid #76323F;
+  width: auto;
+  padding:  5px 5px;
+  text-align: center;
+  overflow: auto;
+  border-radius: 10px;
+}
+.buttonStyles{
+  border: 5px 5px;
+  padding: 5px 5px;
+  color: #76323F;
+  border-radius; 15px;
+
+}
+.story{
+  margin: auto;
+  border: 5px solid #565656;
+  width: auto;
+  padding:  10px;
+  text-align: center;
+  background-color: #565656;
+  border-radius: 10px;
+}
